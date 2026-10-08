@@ -1,0 +1,6 @@
+{
+  "name": "Flamingo Designs SA - Creative Agency & Client Portal",
+  "description": "South African graphic design, web development, print specials, and client invoice management portal for Flamingo Designs SA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
